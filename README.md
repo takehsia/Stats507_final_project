@@ -10,10 +10,10 @@ By utilizing Natural Language Processing (Hugging Face Transformers) to semantic
 - **Visualization:** Generates 2D trend lines and 3D trajectory plots to visualize the evolution of data quality and business growth.
 
 ## Data Sources
-Open Data Portals: Scraped dynamically from US states domains (e.g., data.ca.gov, data.texas.gov).
-Business Formation Statistics (BFS): US Census Bureau (CSV required).
-GDP by State: Bureau of Economic Analysis (CSV required).
-Population: US Census Bureau API (Fetched dynamically).
+- Open Data Portals: Scraped dynamically from US states domains (e.g., data.ca.gov, data.texas.gov).
+- Business Formation Statistics (BFS): US Census Bureau (CSV required).
+- GDP by State: Bureau of Economic Analysis (CSV required).
+- Population: US Census Bureau API (Fetched dynamically).
 
 ## Usage
 Ensure BFS-mf.csv and the GDP CSV file are in the project root.
